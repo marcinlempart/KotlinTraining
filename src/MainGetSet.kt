@@ -51,6 +51,8 @@ class PersonGet2 {
         }
 }
 
+// Konstruktor z dwoma parametrami
+
 class PersonGet3(val zarobki:Int, val prestiz:Int){
 
     private val wartoscRynkowaGracza: Int
